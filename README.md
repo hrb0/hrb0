@@ -1,6 +1,10 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&&color=0:0047fb,100:7c5ad3&section=footer&height=140&text=Welcome+to+hrb0's&animation=fadeIn&fontSize=60&descSize=60)
-# _Medical AI & Image Segmentation_
 
+# _Medical AI & Image Segmentation_
+🏫 Ewha womans university
+
+👩‍🎓 dept. of Mechanical and Biomedical Engineering
+#
 _Read about_
 
 - Rethinking the Inception Architecture for Computer Vision
