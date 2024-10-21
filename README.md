@@ -22,4 +22,3 @@ _Engage in_
 - 2023 K-ium Medical Artificial Intelligence Competition
 - [dacon] 2023 Samsung AI Challenge : Camera-Invariant Domain Adaptation
 #
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hrb0&show_icons=true&theme=radical)
